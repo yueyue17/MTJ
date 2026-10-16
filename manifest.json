@@ -1,0 +1,27 @@
+{
+  "name": "忧郁大陆 · 情绪探索",
+  "short_name": "忧郁大陆",
+  "description": "温和的情绪探索与自助练习游戏：倾听六种情绪，陪伴忧郁大陆的生灵看懂自己的心。",
+  "id": "/MTJ/",
+  "start_url": "/MTJ/index.html",
+  "scope": "/MTJ/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2b3352",
+  "theme_color": "#e88a9a",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "1792128047192.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "1792128047192.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
